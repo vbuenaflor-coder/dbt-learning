@@ -1,0 +1,4 @@
+customer_id,customer_name,segment
+C001,Acme Corp,Enterprise
+C002,Beta LLC,SMB
+C003,Northwind Inc,Mid-Market

@@ -1,0 +1,6 @@
+transaction_id,customer_id,transaction_date,amount,status
+T001,C001,2026-01-05,1000,paid
+T002,C001,2026-01-10,500,paid
+T003,C002,2026-01-12,200,failed
+T004,C003,2026-01-15,750,paid
+T005,C002,2026-02-01,300,paid
