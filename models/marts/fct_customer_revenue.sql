@@ -1,3 +1,5 @@
+ 
+ -- customer ltv enhancement in progress
  select
     customer_id,
     customer_name,
