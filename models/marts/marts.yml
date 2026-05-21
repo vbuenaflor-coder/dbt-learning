@@ -1,0 +1,11 @@
+version: 2
+
+models: 
+  - name : fct_customer_revenue
+    
+    columns:
+      - name: customer_id
+        tests:
+        - not_null
+        - unique
+            

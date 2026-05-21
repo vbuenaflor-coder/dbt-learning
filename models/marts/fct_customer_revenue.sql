@@ -1,4 +1,6 @@
  
+ -- adding customer segmentation logic
+ -- git practice
  -- customer ltv enhancement in progress
  select
     customer_id,
